@@ -49,13 +49,13 @@ body{
 }
 #word i{
     font-size: 2rem;
-    color: var(--accent-color);
+    color: var(--default-color);
     margin-right: 10px;
 }
 #btn{
     padding: 12px 24px;
     font-size: 1rem;
-    background-color: var(--accent-color);
+    background-color: var(--default-color);
     color: white;
     border: none;
     border-radius: 8px;
